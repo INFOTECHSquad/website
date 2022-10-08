@@ -9,7 +9,9 @@ This project is for hacktoberfest to encourage new developer and open source dev
 # 🐱‍💻 INFOTECH Squad Community 
 
 📌 This repository contains of webpage
+
 📌 100% Open Source. This repository is open to all members of GitHub community.
+
 📌 Please help us solve the issue 
 
 <br>
