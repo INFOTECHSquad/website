@@ -51,9 +51,9 @@ Add title of changes and description
   <br>
   
   
-## Table of Contents
+## Recent Activity
 
-<details><ul>Project 1 </></details>
+<ul>Merge pull request #6 from slayeh17/main </>
   
   
 ## 😄 Tribute to all the contributors ❤️
